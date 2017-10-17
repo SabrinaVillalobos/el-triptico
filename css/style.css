@@ -1,0 +1,75 @@
+body {
+	
+	width: 533px;
+	height: 474px;
+	border-style: solid;
+	border-width: 1px;
+	margin-top: 29px;
+	margin-left:66px;
+	margin-right: 66px;
+	margin-bottom:105px;
+}
+
+.caja0 {
+	width: 533px;
+	height: 32px;
+	background-color: #FFC107;
+	border-style: solid;
+	border-width: 1px;
+	top;
+	right:;
+	left:;
+	bottom:;
+	
+}
+
+.caja1 {
+	width: 146px;
+	height: 443px;
+	border-style: solid;
+	border-width: 1px;
+	border-left-width:0px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+
+	top:84px;
+	right:;
+	left:84px;
+	bottom:;
+	
+}
+
+.caja2 {
+	width: 240px;
+	height: 443px;
+	border-style: solid;
+	border-width: 1px;
+	top:84px;
+	right:;
+	left:84px;
+	bottom:;
+	
+}
+
+.caja3 {
+	width: 146px;
+	height: 444px;
+	border-style: solid;
+	border-width: 1px;
+	top:84px;
+	right:;
+	left:84px;
+	bottom:;
+	
+}
+
+.caja4 {
+	background-color: #FFC107;
+	width: 534px;
+	height: 23px;
+	border-style: solid;
+	border-width: 1px;
+	top:84px;
+	right:;
+	left:84px;
+	bottom:;
